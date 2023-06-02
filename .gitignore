@@ -1,0 +1,6 @@
+/node_modules
+IntegrationDemo.data
+IntegrationDemo.html
+IntegrationDemo.js
+IntegrationDemo.wasm
+WwiseAudioWorklet.processor.js
